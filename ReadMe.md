@@ -1,15 +1,19 @@
 I am a Data Scientist and looking for an opportunity to share my skills as well as learn new things.
 
----
+
 # Background
+
+---
 As a former theoretical physicist, I have a strong background in advanced-level mathematical subjects,
 such as differential geometry, abstract algebra, topology, and field theory. My academic research focused
 on developing modified general relativity models and finding gravitational solutions of superstring theory.
 I have extensive experience with lagrangian optimization. Specifically, solving differential equations of
 tensors is one of my mathematical skills. For analytic calculation, I aggressively used Mathematica as rule based programming language to overcome notoriously lengthy computation.
 
----
+
 # Data Science Experience
+
+---
 With Python as my first programming language, I have been actively using **Pandas**, **Tensorflow**, and **Matplotlib** for data cleaning, analysis, and visualization. I have been applied various machine leaning algorithms to conduct my data science projects. 
 
 ### <span style="color:#3050a0"> MCMC in Bayesian Inference</span>
