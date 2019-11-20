@@ -2,6 +2,7 @@ title: Jaehoon Jeong
 description: Data Scientist
 show_downloads: false
 google_analytics:theme: jekyll-theme-time-machine
-
+github:
+  repository_url: https://github.com/jhoonjeong
 
 theme: jekyll-theme-time-machine
