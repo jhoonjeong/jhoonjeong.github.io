@@ -10,7 +10,7 @@ tensors is one of my mathematical skills. For analytic calculation, I aggressive
 # Data Science Experience
 With Python as my first programming language, I have been actively using **Pandas**, **Tensorflow**, and **Matplotlib** for data cleaning, analysis, and visualization. I have been applied various machine leaning algorithms to conduct my data science projects. 
 
-<span style="color:blue">### MCMC in Bayesian Inference</span>
+### <span style="color:blue">MCMC in Bayesian Inference</span>
 I probabilistically modeled the 2D galaxy profile in Bayesian Inference using big astronomical survey data. I started with the big tables that include photometric information of ~200 million objects in the closest external galaxy, Large Magellanic Cloud (LMC). To properly model the 2D galaxy profile, I identified unique object by efficiently removing duplicates from these huge catalogs using the spacing indexing **k-d tree** algorithm. And then, I used the unique object catalog to model 2D galaxy morphology using **Markov Chain Monte Carlo** sampling in the Bayesian inference. 
 
 ### Simulating Unicycle with Reinforcement Learning
